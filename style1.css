@@ -36,10 +36,8 @@ body {
     linear-gradient(to top left, green, transparent),
     linear-gradient(to top right, black, transparent);
 background-blend-mode: screen;
+}
 
 p {
     text-align: center;
-    
-
 }
-
